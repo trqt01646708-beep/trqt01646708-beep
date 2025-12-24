@@ -5,7 +5,7 @@
 - 🔭 Tôi hiện đang làm việc tại dự án **Pet Shop** và **Đọc truyện online**.
 - 🌱 Tôi đang nâng cao kỹ năng về **MVC Architecture** và **API Integration**.
 - 💬 Hỏi tôi về: **PHP, HTML/CSS, JavaScript**.
-- 📫 Liên hệ với tôi qua: [Link Facebook/Email của bạn]
+- 📫 Liên hệ với tôi qua: https://www.facebook.com/thien.thot.5
 
 ### 🛠 Toolbox (Kỹ năng)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
