@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Thiện Trần! 👋
 
-<!--
-**trqt01646708-beep/trqt01646708-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Web Developer | PHP & MySQL Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 Tôi hiện đang làm việc tại dự án **Pet Shop** và **Đọc truyện online**.
+- 🌱 Tôi đang nâng cao kỹ năng về **MVC Architecture** và **API Integration**.
+- 💬 Hỏi tôi về: **PHP, HTML/CSS, JavaScript**.
+- 📫 Liên hệ với tôi qua: [Link Facebook/Email của bạn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Toolbox (Kỹ năng)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trqt01646708-beep&show_icons=true&theme=radical)
