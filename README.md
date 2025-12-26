@@ -13,5 +13,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trqt01646708-beep&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=trqt01646708-beep&show_icons=true&theme=algolia)
